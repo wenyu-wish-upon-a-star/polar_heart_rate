@@ -1,0 +1,5 @@
+datetime,sessionTime,type,message,details
+230423213208.700,0.000,ManualMarkers,ExperimentStarted,CUSTOM_MARKER
+230423213208.746,0.000,Screenshots,screen_1920x1080_0.jpg,NONE
+230423213218.761,10.060,ManualMarkers,ExperimentEnded,CUSTOM_MARKER
+230423213218.794,10.060,Screenshots,screen_1920x1080_1.jpg,NONE
